@@ -24,3 +24,19 @@ text-align: center;
 .logo-branco{
     color: #ffff;
 }
+
+#area-menu a{
+    color: black;
+    text-decoration: none;
+    border-radius: 27px;
+}
+
+#area-menu a:link, #area-menu a:visited{
+    /* background-color: #ffff; */
+    padding: 8px 12px;
+}
+
+#area-menu a:hover{
+    background-color: rgb(0, 0, 0);
+    color: #f7b600;
+}
